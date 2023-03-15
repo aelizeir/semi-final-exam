@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:semi_final_exam/db/todo_database.dart';
-import 'package:semi_final_exam/model/note.dart';
+import 'package:semi_final_exam/model/todo.dart';
 import 'package:semi_final_exam/page/add_edit_todo_page.dart';
 
 class TodoDetailPage extends StatefulWidget {

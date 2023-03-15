@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:semi_final_exam/db/todo_database.dart';
-import 'package:semi_final_exam/model/note.dart';
-import 'package:semi_final_exam/widget/note_form_widget.dart';
+import 'package:semi_final_exam/model/todo.dart';
+import 'package:semi_final_exam/widget/todo_form_widget.dart';
 
 class AddEditTodoPage extends StatefulWidget {
 

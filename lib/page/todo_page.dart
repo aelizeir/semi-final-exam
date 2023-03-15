@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 // import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:semi_final_exam/db/todo_database.dart';
-import 'package:semi_final_exam/model/note.dart';
+import 'package:semi_final_exam/model/todo.dart';
 import 'package:semi_final_exam/page/add_edit_todo_page.dart';
 import 'package:semi_final_exam/page/todo_detail_page.dart';
 import 'package:semi_final_exam/widget/todo_card_widget.dart';
